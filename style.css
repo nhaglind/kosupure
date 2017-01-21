@@ -13,9 +13,3 @@ img {
   border-radius: 5px;
   width: 100%;
 }
-
-@media (min-width: 600px) {
-  body {
-    padding: 10px;
-  }
-}
